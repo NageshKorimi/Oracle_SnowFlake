@@ -1,0 +1,6 @@
+{
+	"name": "AswinLocalintegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
